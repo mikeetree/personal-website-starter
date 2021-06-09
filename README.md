@@ -23,23 +23,23 @@ Github Pages use an SSG (static site generator) called [jekyll](https://jekyllrb
         - `bundle exec jekyll serve --trace --livereload`
     - In your browser navigate to localhost:4000
     - You will be able to see the template and any subsequent changes you make
-4. Open the project and navigate to /index.md
+5. Open the project and navigate to /index.md
     - Update the title to your website title (ie. your full name, or something along those lines)
     - Update the author to your name
     - Update the description of the website
-3. Navigate to the _data directory
+6. Navigate to the _data directory
     - In about.yml write a few sentences/ paragraphs about yourself
     - In contact.yml update the fields with your own usernames, email, and github repo
     - In projects.yml list out your most relevant projects and work you are most proud of
     - In skills.yml talk about some relevant things that you are good at.
         - If you have any certifications you can list them out as well
     - If you have any testimonials, add them in testimonials.yml
-4. Update the splash screen/ hero image (optional)
+7. Update the splash screen/ hero image (optional)
     - Add a high resolution landscape picture to the /assets/img directory
     - Navigate to _includes/intro.html
         - Update the background url defined on line 6; currently set to './assets/img/hero.svg'
-5. Push your changes
-6. Publish your website on Github Pages
+8. Push your changes
+9. Publish your website on Github Pages
     - Go to your repository on GitHub
     - Navigate to the repository Settings > Options
     - Scroll down to the section titled "GitHub Pages"

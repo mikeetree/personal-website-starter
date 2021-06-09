@@ -1,13 +1,13 @@
 #LinkedIn
 #https://www.linkedin.com/in/{{LinkedInUsername}}/
-linkdin_username: /
+linkdin_username: mikeetree
 
 #GitHub
 #https://github.com/{{GitHubUsername}}
-github_username: /
+github_username: mikeetree
 
 #https://github.com/{{GitHubUsername}}/{{GitHubRepo}}
-github_repo: /
+github_repo: personal-website-starter
 
 #The email you'd like people to contact you with.
-email: /
+email: mikeetree@gmail.com

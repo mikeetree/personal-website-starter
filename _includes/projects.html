@@ -10,8 +10,28 @@
     <div class="row">
         {% for project in site.data.projects %}
         <div class="col-12 col-lg-6 mb-5">
-            <h3 class="blue-2 text-uppercase">{{ project.name }}</h3>
+            <h3 class="blue-2 text-uppercase">
+                {% if project.link %}
+                    <a href="{{project.link}}" target="_blank">{{ project.name }}</a>
+                {% else %}
+                    {{project.name}}
+                {% endif %}
+            </h3>
             <h6>{{ project.description }}</h6>
+            
+            <h5>
+                {% if project.link %}
+                    <a href="{{project.link}}" target="_blank">Link</a>
+                {% endif %}
+
+                {% if project.link and project.source %}
+                    <span> - </span>
+                {% endif %}
+
+                {% if project.source %}
+                    <a href="{{project.source}}" target="_blank">Source</a>
+                {% endif %}
+            </h6>
         </div>
         {% endfor %}
     </div>

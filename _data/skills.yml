@@ -1,36 +1,36 @@
-header: Say something about what you're good at
+header: I have many skills.
 
-subheader: Give some more context
+subheader: Some of them are useful.
 
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: Literate
+    description: I can read, speak and write in the English language successfully, most of the time.
 
-  - name: Skill 2
-    description: A quick sentence or two describing your skill
+  - name: Pico de Gallo
+    description: I make a mean Pico. Enjoy it in many ways - throw it on a taco, shovel it into your mouth with tortilla chips, or use your hands to scoop it straight from the bowl.
 
-  - name: Skill 3
-    description: A quick sentence or two describing your skill
+  - name: Non-Newtonian Fluid
+    description: For the most part I go with the flow, but harden under pressure.
 
-#If you have certifications, talk about them here
-certifications:
-  - name: Certification 1
-    topics:
-      - Topic 1A
-      - Topic 1B
-      - Topic 1C
-      - Topic 1D
+# #If you have certifications, talk about them here
+# certifications:
+#   - name: Certification 1
+#     topics:
+#       - Topic 1A
+#       - Topic 1B
+#       - Topic 1C
+#       - Topic 1D
 
-  - name: Certification 2
-    topics:
-      - Topic 2A
-      - Topic 2B
-      - Topic 2C
-      - Topic 2D
+#   - name: Certification 2
+#     topics:
+#       - Topic 2A
+#       - Topic 2B
+#       - Topic 2C
+#       - Topic 2D
 
-  - name: Certification 3
-    topics:
-      - Topic 3A
-      - Topic 3B
-      - Topic 3C
-      - Topic 3D
+#   - name: Certification 3
+#     topics:
+#       - Topic 3A
+#       - Topic 3B
+#       - Topic 3C
+#       - Topic 3D

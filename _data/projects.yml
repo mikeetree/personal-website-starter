@@ -1,13 +1,19 @@
 #If you have worked on relevant projects talk about them here
 
-- name: Project 1
-  description: A few sentences describing your project.
+- name: Google
+  description: I made Google. (Don't Google that.)
+  link: https://www.google.com/
 
-- name: Project 2
-  description: A few sentences describing your project.
+- name: ourstory
+  description: Ourstory is a collaborative storytelling app for users to create stories together.
+  link: https://thisisourstory.herokuapp.com/
+  source: https://github.com/mikeetree/ourstory
 
-- name: Project 3
-  description: A few sentences describing your project.
+- name: GrannyCrossing
+  description: Early prototype for a VR game where you play a grandma using her walker to move across a street while avoiding cars. The player uses their VR controllers to hold on to a walker, mimicking real life movement to move in-game. The goal is to cross the street while avoiding traffic.
+  link: https://www.youtube.com/watch?v=eaLcittUNfk
+  source: https://github.com/mikeetree/GrannyCrossing
 
-- name: Project 4
-  description: A few sentences describing your project.
+- name: SSE LED
+  description: Quick project showcasing Server Sent Events and interfacing with Arduino with johnny-five. Users use the UI to vote for their favorite color, and the server sends the winning color data to the Arduino which changes the color of an RGB LED.
+  source: https://github.com/mikeetree/mikepres

@@ -1,7 +1,7 @@
 ---
-title: Your Website
-author: Your Name Here
-description: "A quick website description"
+title: Mike'Site
+author: Mike T
+description: "This is my site, generated with Jekyll"
 layout: default
 permalink: /
 ---
